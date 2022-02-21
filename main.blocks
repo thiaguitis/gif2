@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="3KMW$cwV?T$OAU|y(cK@" x="254" y="-17"><statement name="HANDLER"><block type="device_show_leds" id="p_~j3TNokP4VQJ^y``p%"><field name="LEDS">`
+        # # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id=".$F{[(AqO{Q-O/Z9dZsL"><field name="LEDS">`
+        . . . . . 
+        # # . . . 
+        . # . . . 
+        . # # # . 
+        . # . # .
+        `</field></block></next></block></statement></block><block type="pxt-on-start" id="K#3}hAe^omMEi-,af4ot" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="8@H56A|A=:ktAE^;vB8F"><field name="i">IconNames.Square</field><next><block type="basic_show_icon" id="K_%rb%B|^N5tbTifDokQ"><field name="i">IconNames.SmallSquare</field><next><block type="device_show_leds" id="}JR$0)lT{gmJw[Zj;Qdi"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="~2jYU::]sOF~zWRb);b="><field name="i">IconNames.Chessboard</field></block></next></block></next></block></next></block></statement></block></xml>
